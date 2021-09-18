@@ -1,0 +1,8 @@
+Task-2 of LetsGrowMore:
+
+Create the Decision Tree classifier and visualize it graphically. 
+
+Classifying iris flowers using Decision tree
+
+The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.  
+
